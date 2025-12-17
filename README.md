@@ -51,7 +51,7 @@ Make sure you have the following tools installed in your local/dev environment (
 ### Clone the repository  
 ```bash
 git clone https://github.com/Sairam-K5/User-Management-Project.git
-cd User-App-Project
+cd User-Management-Project
 ```
 
 ### Build the application
